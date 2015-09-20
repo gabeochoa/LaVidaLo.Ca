@@ -3,6 +3,8 @@ body, html {
 	padding: 0;
 	border: 0;
 	background-color: #034660;
+	overflow: hidden;
+
 }
 body {
 	background-color: #034660;	
@@ -16,3 +18,5 @@ img {
 position:fixed;
     
 }
+
+div#container {height:80%;width:80%;}
