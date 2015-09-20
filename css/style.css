@@ -13,10 +13,16 @@ audio {
    display:none;
 }
     
-img {
- background-color:#ffffff;
-position:fixed;
-    
-}
 
 div#container {height:80%;width:80%;}
+
+div.a {
+position:fixed;
+    height:80%;width:80%;
+}
+div.b {
+position:fixed;
+
+    height:80%;width:80%;
+    
+}
